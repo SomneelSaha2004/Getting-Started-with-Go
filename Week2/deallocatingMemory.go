@@ -7,6 +7,6 @@ func a() {
 	var x int = 0 //stored in the stack->for function blocks
 	fmt.Printf("%d\n", x)
 }
-func main() {
+func deallocatingMemory() {
 
 }
